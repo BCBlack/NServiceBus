@@ -67,7 +67,7 @@
   <ItemGroup>
     <ProjectReference Include="..\NServiceBus.Config\NServiceBus.Config.csproj">
       <Project>{444FAA3D-D5E1-498E-9AE1-201DB619CAF0}</Project>
-      <Name>NServiceBus.Config</Name>
+      <Name>NServiceBus.Config %28NServiceBus.Config\NServiceBus.Config%29</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

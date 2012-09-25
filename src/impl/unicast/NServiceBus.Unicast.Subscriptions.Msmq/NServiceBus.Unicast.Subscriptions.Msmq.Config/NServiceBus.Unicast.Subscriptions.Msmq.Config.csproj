@@ -102,7 +102,7 @@
   <ItemGroup>
     <ProjectReference Include="..\NServiceBus.Unicast.Subscriptions.Msmq.csproj">
       <Project>{6657A1B8-3773-46A4-88F2-A421E074D35F}</Project>
-      <Name>NServiceBus.Unicast.Subscriptions.Msmq</Name>
+      <Name>NServiceBus.Unicast.Subscriptions.Msmq %28NServiceBus.Unicast.Subscriptions.Msmq\NServiceBus.Unicast.Subscriptions.Msmq%29</Name>
       <Private>False</Private>
     </ProjectReference>
   </ItemGroup>

@@ -123,7 +123,7 @@
   <ItemGroup>
     <ProjectReference Include="..\NServiceBus.Databus\NServiceBus.DataBus.csproj">
       <Project>{EDFCAFE5-9C1D-4339-9DC5-2CD899E9E605}</Project>
-      <Name>NServiceBus.DataBus</Name>
+      <Name>NServiceBus.DataBus %28NServiceBus.Databus\NServiceBus.DataBus%29</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

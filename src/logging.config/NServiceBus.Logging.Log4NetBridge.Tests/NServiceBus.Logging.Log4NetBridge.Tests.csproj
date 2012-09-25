@@ -70,7 +70,7 @@
   <ItemGroup>
     <ProjectReference Include="..\NServiceBus.Logging.Log4NetBridge\NServiceBus.Logging.Log4NetBridge.csproj">
       <Project>{457BFE05-BC06-4A41-B063-BDA17D57B91D}</Project>
-      <Name>NServiceBus.Log4NetBridge</Name>
+      <Name>NServiceBus.Logging.Log4NetBridge</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

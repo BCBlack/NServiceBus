@@ -76,7 +76,7 @@
     </ProjectReference>
     <ProjectReference Include="..\ObjectBuilder.Common\ObjectBuilder.Common.csproj">
       <Project>{771CDD6A-6880-4802-8EB1-F7A35386D9B4}</Project>
-      <Name>ObjectBuilder.Common</Name>
+      <Name>ObjectBuilder.Common %28ObjectBuilder.Common\ObjectBuilder.Common%29</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

@@ -80,7 +80,7 @@
   <ItemGroup>
     <ProjectReference Include="..\NServiceBus.Hosting\NServiceBus.Hosting.csproj">
       <Project>{B5F333D1-D6B1-49FB-82F6-74641E5D11E3}</Project>
-      <Name>NServiceBus.Hosting</Name>
+      <Name>NServiceBus.Hosting %28NServiceBus.Hosting\NServiceBus.Hosting%29</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

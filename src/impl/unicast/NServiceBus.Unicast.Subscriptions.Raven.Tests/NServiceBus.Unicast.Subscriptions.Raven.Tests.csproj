@@ -123,7 +123,7 @@
     </ProjectReference>
     <ProjectReference Include="..\NServiceBus.Unicast.Subscriptions.Raven\NServiceBus.Unicast.Subscriptions.Raven.csproj">
       <Project>{052D329F-14B5-4A56-8F04-C620F49A5C3A}</Project>
-      <Name>NServiceBus.Unicast.Subscriptions.Raven</Name>
+      <Name>NServiceBus.Unicast.Subscriptions.Raven %28NServiceBus.Unicast.Subscriptions.Raven\NServiceBus.Unicast.Subscriptions.Raven%29</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
